@@ -1,14 +1,16 @@
 ### 👋 Hi, I'm Ayush (@ayushpythonista)  
 
 🚀 **About Me:**  
-- 💻 Passionate about **Cloud, DevOps, and Site Reliability Engineering (SRE)**  
-- 🔥 Experienced in **Python, Go**  
-- 🌱 Currently diving into **Rust**  
+- 💻 Passionate about **Backend, Cloud, DevOps, and Site Reliability Engineering (SRE)**  
+- 🔥 Experienced in **Python & Go**  
+- 🌱 Building with **FastAPI, Django, Flask (Python) & Gin (Go) for Web Development**  
+- 📊 Exploring **NumPy & Pandas for Data Processing**  
+- 🚀 Leveraging **Go for Cloud & Backend Development**  
 - 🎯 Open to **collaborations on open-source projects and cloud automation**  
 
 💡 **What I'm Working On:**  
-- ☁️ Enhancing my expertise in **AWS & Azure services**  
-- 🏗️ Building scalable **Cloud & DevOps solutions**  
+- ☁️ Expanding my expertise in **AWS & Azure services**  
+- 🏗️ Developing **scalable Cloud & DevOps solutions**  
 
 📫 **How to Reach Me:**  
 - 📧 Email: ayush.pythonista@gmailc.om  
