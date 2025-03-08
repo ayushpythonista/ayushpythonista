@@ -6,7 +6,6 @@
 - 🌱 Building with **Django, Flask (Python) & Gin (Go) for Web Development**  
 - 📊 Exploring **NumPy & Pandas for Data Processing**  
 - 🚀 Leveraging **Go for Cloud & Backend Development**
-- 📱 Diving into **Java & Android Development** 
 - 🎯 Open to **collaborations on open-source projects and cloud automation**  
 
 💡 **What I'm Working On:**  
