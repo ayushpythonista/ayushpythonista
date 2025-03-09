@@ -2,10 +2,9 @@
 
 🚀 **About Me:**  
 - 💻 Passionate about **Backend, Cloud, DevOps, and Site Reliability Engineering (SRE)**  
-- 🔥 Experienced in **Python & Go**  
-- 🌱 Building with **Django, Flask (Python) & Gin (Go) for Web Development**  
+- 🔥 Experienced in **Python & Java**  
+- 🌱 Building with **Django, Flask (Python) & Spring Boot (Java) for Backend Development**  
 - 📊 Exploring **NumPy & Pandas for Data Processing**  
-- 🚀 Leveraging **Go for Cloud & Backend Development**
 - 🎯 Open to **collaborations on open-source projects and cloud automation**  
 
 💡 **What I'm Working On:**  
